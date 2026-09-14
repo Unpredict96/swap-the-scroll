@@ -1,0 +1,38 @@
+name: Update cards
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 5am UTC daily (6am London winter, 6am summer)
+  workflow_dispatch:       # also triggerable manually from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install requests
+
+      - name: Fetch sources
+        run: python3 scripts/fetch_sources.py --only ft,wikipedia
+
+      - name: Make cards
+        run: python3 scripts/make_cards.py --merge
+
+      - name: Validate
+        run: python3 scripts/validate_cards.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/cards.json
+          git diff --staged --quiet || git commit -m "chore: refresh signal cards [skip ci]"
+          git push
