@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="A finite daily feed of macro, energy-market and general-knowledge cards.">
+<meta name="theme-color" content="#141A1F">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" href="./icons/icon-192.png">
+<link rel="apple-touch-icon" href="./icons/icon-192.png">
+<link rel="stylesheet" href="./src/app.css">
+<title>Swap the scroll</title>
+</head>
+<body>
+<div id="app">
+
+  <div id="loading" class="screen">Loading your feed…</div>
+
+  <div id="start" class="screen hidden">
+    <div class="start-top">
+      <p class="eyebrow">A scroll feed, minus the void</p>
+      <h1 class="title">Swap the scroll</h1>
+      <p class="sub">Same swipe-up habit as Reels or TikTok, except every card teaches you something — capped daily so it can't become its own scroll trap.</p>
+      <p class="streak-line">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2c1 3-2 4-2 7a4 4 0 0 0 8 0c0-1-.5-2-1-2 1 4-1 5-2 5a2.5 2.5 0 0 1-2.5-2.5c0-2 1.5-3 1.5-5C14 3 12 2 12 2zM7 14a5 5 0 0 0 10 0c0-1.5-.7-2.6-1.3-3.4.2 2-1 3.2-2.2 3.9A4 4 0 0 1 12 16a4 4 0 0 1-4-4c0-.9.3-1.6.7-2.2C7.7 10.6 7 12.1 7 14z"/></svg>
+        <span id="streak-text">Start your streak today</span>
+      </p>
+    </div>
+    <div class="modes">
+      <button class="mode-row macro" data-mode="macro">
+        <div>
+          <p class="mode-name">Macro &amp; energy markets</p>
+          <p class="mode-desc">Rates, curves, gas storage, LNG — the trader's feed</p>
+        </div>
+        <span class="mode-chev" aria-hidden="true">&rsaquo;</span>
+      </button>
+      <button class="mode-row general" data-mode="general">
+        <div>
+          <p class="mode-name">General knowledge</p>
+          <p class="mode-desc">History, trade, food and wine — bar-trivia material</p>
+        </div>
+        <span class="mode-chev" aria-hidden="true">&rsaquo;</span>
+      </button>
+      <button class="mode-row mixed" data-mode="mixed">
+        <div>
+          <p class="mode-name">Mixed feed</p>
+          <p class="mode-desc">A bit of everything, shuffled</p>
+        </div>
+        <span class="mode-chev" aria-hidden="true">&rsaquo;</span>
+      </button>
+    </div>
+  </div>
+
+  <div id="feed-screen" class="screen hidden">
+    <div class="feed-top">
+      <button class="iconbtn" id="back-btn" aria-label="Change topic">&lsaquo;</button>
+      <div class="feed-meta">
+        <span class="meta-chip streak">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2c1 3-2 4-2 7a4 4 0 0 0 8 0c0-1-.5-2-1-2 1 4-1 5-2 5a2.5 2.5 0 0 1-2.5-2.5c0-2 1.5-3 1.5-5C14 3 12 2 12 2zM7 14a5 5 0 0 0 10 0c0-1.5-.7-2.6-1.3-3.4.2 2-1 3.2-2.2 3.9A4 4 0 0 1 12 16a4 4 0 0 1-4-4c0-.9.3-1.6.7-2.2C7.7 10.6 7 12.1 7 14z"/></svg>
+          <span class="streak-num">0</span>
+        </span>
+        <span id="progress-text">1 / 1</span>
+        <span class="meta-chip">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v16l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+          <span id="saved-total">0</span>
+        </span>
+      </div>
+    </div>
+    <div id="track"></div>
+  </div>
+
+</div>
+<script type="module" src="./src/app.js"></script>
+</body>
+</html>

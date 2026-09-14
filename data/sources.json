@@ -1,0 +1,38 @@
+{
+  "_comment": "Source registry. 'usable' false means the source must NOT be ingested. Add new sources here first, then wire them in fetch_sources.py.",
+  "sources": [
+    { "id": "fred", "name": "FRED (St. Louis Fed)", "category": "macro", "access": "api", "keyRequired": true, "url": "https://fred.stlouisfed.org/docs/api/fred/", "attribution": "verified", "usable": true, "notes": "~800k series. Best single macro source." },
+    { "id": "ecb", "name": "ECB Data Portal", "category": "macro", "access": "api", "keyRequired": false, "url": "https://data.ecb.europa.eu", "attribution": "verified", "usable": true },
+    { "id": "boe", "name": "Bank of England", "category": "macro", "access": "csv", "keyRequired": false, "url": "https://www.bankofengland.co.uk/boeapps/database/", "attribution": "verified", "usable": true },
+    { "id": "ons", "name": "ONS", "category": "macro", "access": "api", "keyRequired": false, "url": "https://developer.ons.gov.uk", "attribution": "verified", "usable": true },
+    { "id": "eurostat", "name": "Eurostat", "category": "macro", "access": "api", "keyRequired": false, "url": "https://ec.europa.eu/eurostat/web/main/data/web-services", "attribution": "verified", "usable": true },
+    { "id": "worldbank", "name": "World Bank", "category": "macro", "access": "api", "keyRequired": false, "url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589", "attribution": "verified", "usable": true },
+    { "id": "imf", "name": "IMF", "category": "macro", "access": "api", "keyRequired": false, "url": "https://data.imf.org", "attribution": "verified", "usable": true },
+    { "id": "oecd", "name": "OECD", "category": "macro", "access": "api", "keyRequired": false, "url": "https://data.oecd.org/api/", "attribution": "verified", "usable": true },
+    { "id": "bis", "name": "BIS", "category": "macro", "access": "csv", "keyRequired": false, "url": "https://www.bis.org/statistics/", "attribution": "verified", "usable": true },
+
+    { "id": "gie_agsi", "name": "GIE AGSI+", "category": "energy", "access": "api", "keyRequired": true, "url": "https://agsi.gie.eu/api", "attribution": "verified", "usable": true, "notes": "EU gas storage. Free key by email." },
+    { "id": "gie_alsi", "name": "GIE ALSI", "category": "energy", "access": "api", "keyRequired": true, "url": "https://alsi.gie.eu/api", "attribution": "verified", "usable": true, "notes": "LNG terminal send-out. Same key as AGSI+." },
+    { "id": "entsog", "name": "ENTSOG Transparency", "category": "energy", "access": "api", "keyRequired": false, "url": "https://transparency.entsog.eu/api/archiveDirectories", "attribution": "verified", "usable": true },
+    { "id": "entsoe", "name": "ENTSO-E Transparency", "category": "energy", "access": "api", "keyRequired": true, "url": "https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html", "attribution": "verified", "usable": true },
+    { "id": "acer_remit", "name": "ACER / REMIT UMMs", "category": "energy", "access": "web", "keyRequired": false, "url": "https://www.acer.europa.eu", "attribution": "verified", "usable": true },
+    { "id": "gassco", "name": "Gassco UMM", "category": "energy", "access": "none", "keyRequired": false, "url": "https://umm.gassco.no", "attribution": "verified", "usable": true, "notes": "No public API. Known limitation." },
+    { "id": "eia", "name": "EIA", "category": "energy", "access": "api", "keyRequired": true, "url": "https://www.eia.gov/opendata/", "attribution": "verified", "usable": true },
+    { "id": "ember", "name": "Ember", "category": "energy", "access": "csv", "keyRequired": false, "url": "https://ember-energy.org/data/", "attribution": "verified", "usable": true, "licence": "CC BY 4.0" },
+    { "id": "iea", "name": "IEA", "category": "energy", "access": "rss", "keyRequired": false, "url": "https://www.iea.org", "attribution": "verified", "usable": true },
+
+    { "id": "ft", "name": "Financial Times", "category": "press", "access": "rss-headline-only", "keyRequired": false, "url": "https://www.ft.com/rss/home", "attribution": "verified", "usable": true, "licence": "Paywalled — HEADLINE AND LINK ONLY. Never fetch, store or reproduce article body text. Card points the reader to open it in their own subscription." },
+    { "id": "reuters", "name": "Reuters", "category": "press", "access": "rss-headline-only", "keyRequired": false, "url": "https://www.reuters.com", "attribution": "verified", "usable": true, "licence": "Headline and link only." },
+
+    { "id": "wikipedia", "name": "Wikipedia", "category": "general", "access": "api", "keyRequired": false, "url": "https://en.wikipedia.org/api/rest_v1/", "attribution": "unverified", "usable": true, "licence": "CC BY-SA — attribution required. ALWAYS mark cards unverified." },
+    { "id": "wikidata", "name": "Wikidata", "category": "general", "access": "api", "keyRequired": false, "url": "https://query.wikidata.org", "attribution": "unverified", "usable": true, "licence": "CC0" },
+    { "id": "owid", "name": "Our World in Data", "category": "general", "access": "csv", "keyRequired": false, "url": "https://ourworldindata.org", "attribution": "verified", "usable": true, "licence": "CC BY" },
+    { "id": "opentdb", "name": "Open Trivia DB", "category": "general", "access": "api", "keyRequired": false, "url": "https://opentdb.com/api_config.php", "attribution": "unverified", "usable": true, "licence": "CC BY-SA" },
+    { "id": "unesco", "name": "UNESCO World Heritage", "category": "general", "access": "api", "keyRequired": false, "url": "https://whc.unesco.org/en/syndication", "attribution": "verified", "usable": true },
+
+    { "id": "argus", "name": "Argus Media", "category": "energy", "access": "blocked", "usable": false, "notes": "Seat-licensed professional platform. Do not ingest." },
+    { "id": "icis", "name": "ICIS", "category": "energy", "access": "blocked", "usable": false, "notes": "Seat-licensed. Do not ingest." },
+    { "id": "kpler", "name": "Kpler", "category": "energy", "access": "blocked", "usable": false, "notes": "Seat-licensed. Do not ingest." },
+    { "id": "spglobal", "name": "S&P Global / Platts", "category": "energy", "access": "blocked", "usable": false, "notes": "Seat-licensed. Do not ingest." }
+  ]
+}

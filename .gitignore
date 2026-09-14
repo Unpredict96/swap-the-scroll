@@ -1,0 +1,5 @@
+.env
+data/raw/
+data/cards.new.json
+.DS_Store
+node_modules/
