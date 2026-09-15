@@ -526,5 +526,77 @@
   "sourceUrl": "https://www.inao.gouv.fr/eng",
   "confidence": "verified",
   "added": "2026-09-14"
+ },
+ {
+  "id": "s-ft-2026-09-15-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Supreme Court rejects Trump’s mail-in ballot restrictions for midterms",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-15"
+ },
+ {
+  "id": "s-ft-2026-09-15-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-15"
+ },
+ {
+  "id": "s-ft-2026-09-15-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "How Poland lost $230mn trying to buy Venezuelan oil with crypto",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-15"
+ },
+ {
+  "id": "s-wiki-2026-09-15-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2020: The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing re",
+  "detail": "The Abraham Accords were signed in Washington, D.C. (signatories pictured), normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Abraham_Accords",
+  "confidence": "unverified",
+  "added": "2026-09-15"
+ },
+ {
+  "id": "s-wiki-2026-09-15-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2017: A homemade bomb partially exploded on an eastbound District line train at Parsons Green tu",
+  "detail": "A homemade bomb partially exploded on an eastbound District line train at Parsons Green tube station in West London, injuring 30 passengers.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Parsons_Green_train_bombing",
+  "confidence": "unverified",
+  "added": "2026-09-15"
+ },
+ {
+  "id": "s-wiki-2026-09-15-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: The Belarusian serial killer Ivan Kulesh murdered two saleswomen in Lida.",
+  "detail": "The Belarusian serial killer Ivan Kulesh murdered two saleswomen in Lida.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Kulesh",
+  "confidence": "unverified",
+  "added": "2026-09-15"
  }
 ]
