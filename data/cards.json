@@ -564,6 +564,42 @@
   "added": "2026-09-15"
  },
  {
+  "id": "s-ft-2026-09-16-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "US billionaires line up to bankroll Republicans’ election push",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-16"
+ },
+ {
+  "id": "s-ft-2026-09-16-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Why the US and China are at odds on AI threats",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-16"
+ },
+ {
+  "id": "s-ft-2026-09-16-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "With AI, ‘I told you so’ will be too late",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-16"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -598,5 +634,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Ivan_Kulesh",
   "confidence": "unverified",
   "added": "2026-09-15"
+ },
+ {
+  "id": "s-wiki-2026-09-16-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: A lone gunman fatally shot twelve people and injured three others at the headquarters of t",
+  "detail": "A lone gunman fatally shot twelve people and injured three others at the headquarters of the Naval Sea Systems Command in Washington, D.C.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting",
+  "confidence": "unverified",
+  "added": "2026-09-16"
+ },
+ {
+  "id": "s-wiki-2026-09-16-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2007: Seventeen Iraqi civilians were shot and killed by Academi guards in Baghdad.",
+  "detail": "Seventeen Iraqi civilians were shot and killed by Academi guards in Baghdad.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nisour_Square_massacre",
+  "confidence": "unverified",
+  "added": "2026-09-16"
+ },
+ {
+  "id": "s-wiki-2026-09-16-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2007: One-Two-Go Airlines Flight 269 crashed after attempting a poorly executed go-around while ",
+  "detail": "One-Two-Go Airlines Flight 269 crashed after attempting a poorly executed go-around while landing in Thailand, killing 90 of the 130 people on board.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/One-Two-Go_Airlines_Flight_269",
+  "confidence": "unverified",
+  "added": "2026-09-16"
  }
 ]
