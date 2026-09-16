@@ -2,7 +2,7 @@ name: Update cards
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # 5am UTC daily (6am London winter, 6am summer)
+    - cron: '0 20 * * *'  # 9pm BST (UTC+1) / 8pm GMT in winter
   workflow_dispatch:       # also triggerable manually from the Actions tab
 
 jobs:
