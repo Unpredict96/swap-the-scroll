@@ -600,6 +600,42 @@
   "added": "2026-09-16"
  },
  {
+  "id": "s-ft-2026-09-17-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Trump fails to bend the Fed to his will",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-17"
+ },
+ {
+  "id": "s-ft-2026-09-17-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "China cuts US Treasury holdings to lowest level since 2008",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-17"
+ },
+ {
+  "id": "s-ft-2026-09-17-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Getting to know Mr Warsh",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-17"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -670,5 +706,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/One-Two-Go_Airlines_Flight_269",
   "confidence": "unverified",
   "added": "2026-09-16"
+ },
+ {
+  "id": "s-wiki-2026-09-17-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2018: The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria",
+  "detail": "The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
+  "confidence": "unverified",
+  "added": "2026-09-17"
+ },
+ {
+  "id": "s-wiki-2026-09-17-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: Adbusters, a Canadian anti-consumerist publication, organized a protest against corporate ",
+  "detail": "Adbusters, a Canadian anti-consumerist publication, organized a protest against corporate influence on democracy at Zuccotti Park in New York City that became known as Occupy Wall Street.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Adbusters",
+  "confidence": "unverified",
+  "added": "2026-09-17"
+ },
+ {
+  "id": "s-wiki-2026-09-17-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2008: Seven al-Qaeda fighters attack the embassy of the United States in Sanaa, Yemen, leaving 2",
+  "detail": "Seven al-Qaeda fighters attack the embassy of the United States in Sanaa, Yemen, leaving 20 people dead.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Al-Qaeda_in_Yemen",
+  "confidence": "unverified",
+  "added": "2026-09-17"
  }
 ]
