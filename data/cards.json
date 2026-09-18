@@ -636,6 +636,42 @@
   "added": "2026-09-17"
  },
  {
+  "id": "s-ft-2026-09-18-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Yen sinks after BoJ raises rates to highest since 1995",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-18"
+ },
+ {
+  "id": "s-ft-2026-09-18-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Medical AI has a proof problem",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-18"
+ },
+ {
+  "id": "s-ft-2026-09-18-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Liechtenstein royals threaten lawsuit over dynasty reforms",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-18"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -742,5 +778,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Al-Qaeda_in_Yemen",
   "confidence": "unverified",
   "added": "2026-09-17"
+ },
+ {
+  "id": "s-wiki-2026-09-18-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1981: While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques d",
+  "detail": "While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nestor_Pirotte",
+  "confidence": "unverified",
+  "added": "2026-09-18"
+ },
+ {
+  "id": "s-wiki-2026-09-18-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1964: The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place",
+  "detail": "The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place in Athens.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wedding_of_Constantine_II_and_Princess_Anne-Marie",
+  "confidence": "unverified",
+  "added": "2026-09-18"
+ },
+ {
+  "id": "s-wiki-2026-09-18-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1962: Aeroflot Flight 213 crashed into a mountain near Chersky Airport, killing 32 people.",
+  "detail": "Aeroflot Flight 213 crashed into a mountain near Chersky Airport, killing 32 people.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_213",
+  "confidence": "unverified",
+  "added": "2026-09-18"
  }
 ]
