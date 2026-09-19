@@ -672,6 +672,42 @@
   "added": "2026-09-18"
  },
  {
+  "id": "s-ft-2026-09-19-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-19"
+ },
+ {
+  "id": "s-ft-2026-09-19-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "OpenAI expects to burn $280bn by 2030",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-19"
+ },
+ {
+  "id": "s-ft-2026-09-19-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "How should investors position for the robot apocalypse?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-19"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -814,5 +850,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_213",
   "confidence": "unverified",
   "added": "2026-09-18"
+ },
+ {
+  "id": "s-wiki-2026-09-19-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2023: Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolia",
+  "detail": "Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Mongol_Khan",
+  "confidence": "unverified",
+  "added": "2026-09-19"
+ },
+ {
+  "id": "s-wiki-2026-09-19-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball's all-time career ",
+  "detail": "Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball's all-time career leader in saves.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mariano_Rivera",
+  "confidence": "unverified",
+  "added": "2026-09-19"
+ },
+ {
+  "id": "s-wiki-2026-09-19-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1995: Industrial Society and Its Future, the manifesto of American domestic terrorist Ted Kaczyn",
+  "detail": "Industrial Society and Its Future, the manifesto of American domestic terrorist Ted Kaczynski, was published in The Washington Post almost three months after it was submitted.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future",
+  "confidence": "unverified",
+  "added": "2026-09-19"
  }
 ]
