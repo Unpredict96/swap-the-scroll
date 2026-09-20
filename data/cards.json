@@ -708,6 +708,42 @@
   "added": "2026-09-19"
  },
  {
+  "id": "s-ft-2026-09-20-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-20"
+ },
+ {
+  "id": "s-ft-2026-09-20-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-20"
+ },
+ {
+  "id": "s-ft-2026-09-20-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "The Gulf cargo trade that vanished",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-20"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -886,5 +922,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future",
   "confidence": "unverified",
   "added": "2026-09-19"
+ },
+ {
+  "id": "s-wiki-2026-09-20-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: The United States military ended its \"don't ask, don't tell\" policy, consequently allowing",
+  "detail": "The United States military ended its \"don't ask, don't tell\" policy, consequently allowing gay and lesbian people to serve openly.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Don't_ask%2C_don't_tell",
+  "confidence": "unverified",
+  "added": "2026-09-20"
+ },
+ {
+  "id": "s-wiki-2026-09-20-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2008: An explosive-laden truck detonated in front of the Marriott hotel in Islamabad, Pakistan, ",
+  "detail": "An explosive-laden truck detonated in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Islamabad_Marriott_Hotel_bombing",
+  "confidence": "unverified",
+  "added": "2026-09-20"
+ },
+ {
+  "id": "s-wiki-2026-09-20-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2000: The Real Irish Republican Army carried out a rocket-launcher attack on the MI6 headquarter",
+  "detail": "The Real Irish Republican Army carried out a rocket-launcher attack on the MI6 headquarters in London, with no casualties and minimal damage recorded.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Real_Irish_Republican_Army",
+  "confidence": "unverified",
+  "added": "2026-09-20"
  }
 ]
