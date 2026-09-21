@@ -744,6 +744,42 @@
   "added": "2026-09-20"
  },
  {
+  "id": "s-ft-2026-09-21-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-21"
+ },
+ {
+  "id": "s-ft-2026-09-21-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Germany’s Merz stands his ground but for how long?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-21"
+ },
+ {
+  "id": "s-ft-2026-09-21-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-21"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -958,5 +994,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Real_Irish_Republican_Army",
   "confidence": "unverified",
   "added": "2026-09-20"
+ },
+ {
+  "id": "s-wiki-2026-09-21-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nai",
+  "detail": "Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack",
+  "confidence": "unverified",
+  "added": "2026-09-21"
+ },
+ {
+  "id": "s-wiki-2026-09-21-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2004: American rock band Green Day released their seventh studio album, American Idiot.",
+  "detail": "American rock band Green Day released their seventh studio album, American Idiot.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Green_Day",
+  "confidence": "unverified",
+  "added": "2026-09-21"
+ },
+ {
+  "id": "s-wiki-2026-09-21-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2001: Several British Muslim youths in Peterborough, England, murdered 17-year-old Ross Parker, ",
+  "detail": "Several British Muslim youths in Peterborough, England, murdered 17-year-old Ross Parker, leading to debate over whether the British media failed to cover racially motivated crimes with white victims.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Peterborough",
+  "confidence": "unverified",
+  "added": "2026-09-21"
  }
 ]
