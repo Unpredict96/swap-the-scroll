@@ -780,6 +780,42 @@
   "added": "2026-09-21"
  },
  {
+  "id": "s-ft-2026-09-22-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-22"
+ },
+ {
+  "id": "s-ft-2026-09-22-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "How the cost of Japan’s money shapes the world",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-22"
+ },
+ {
+  "id": "s-ft-2026-09-22-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "What Xi wants from his summit with Trump",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-22"
+ },
+ {
   "id": "s-wiki-2026-09-15-0",
   "group": "general",
   "kind": "signal",
@@ -1030,5 +1066,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Peterborough",
   "confidence": "unverified",
   "added": "2026-09-21"
+ },
+ {
+  "id": "s-wiki-2026-09-22-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2014: The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.",
+  "detail": "The NASA spacecraft MAVEN entered into orbit around Mars to study the planet's atmosphere.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/NASA",
+  "confidence": "unverified",
+  "added": "2026-09-22"
+ },
+ {
+  "id": "s-wiki-2026-09-22-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: Insurgency in Khyber Pakhtunkhwa: All Saints Church in Peshawar, Pakistan, was attacked by",
+  "detail": "Insurgency in Khyber Pakhtunkhwa: All Saints Church in Peshawar, Pakistan, was attacked by two suicide bombers who killed 127 people.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa",
+  "confidence": "unverified",
+  "added": "2026-09-22"
+ },
+ {
+  "id": "s-wiki-2026-09-22-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2003: Dolphin, the first emulator for the GameCube that could run commercial video games, was re",
+  "detail": "Dolphin, the first emulator for the GameCube that could run commercial video games, was released.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Dolphin_(emulator)",
+  "confidence": "unverified",
+  "added": "2026-09-22"
  }
 ]
