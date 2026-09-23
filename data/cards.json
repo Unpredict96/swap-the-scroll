@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-15-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Supreme Court rejects Trump’s mail-in ballot restrictions for midterms",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-15"
- },
- {
-  "id": "s-ft-2026-09-15-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-15"
- },
- {
-  "id": "s-ft-2026-09-15-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "How Poland lost $230mn trying to buy Venezuelan oil with crypto",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-15"
- },
- {
   "id": "s-ft-2026-09-16-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-22"
+ },
+ {
+  "id": "s-ft-2026-09-23-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "US government and Gulf billionaires back Todd Boehly bid for Lukoil assets",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-23"
+ },
+ {
+  "id": "s-ft-2026-09-23-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Has Trump caged his China hawks?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-23"
+ },
+ {
+  "id": "s-ft-2026-09-23-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "The battle between the Fed and Trump",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-23"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1102,5 +1102,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Dolphin_(emulator)",
   "confidence": "unverified",
   "added": "2026-09-22"
+ },
+ {
+  "id": "s-wiki-2026-09-23-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2019: The British travel company Thomas Cook Group ceased operations with immediate effect, leav",
+  "detail": "The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
+  "confidence": "unverified",
+  "added": "2026-09-23"
+ },
+ {
+  "id": "s-wiki-2026-09-23-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2016: Following a number of high-profile sexual assaults, major reforms were enacted to strength",
+  "detail": "Following a number of high-profile sexual assaults, major reforms were enacted to strengthen laws related to rape in Germany.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Rape_in_Germany",
+  "confidence": "unverified",
+  "added": "2026-09-23"
+ },
+ {
+  "id": "s-wiki-2026-09-23-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2010: Teresa Lewis became the first woman to be executed by the U.S. state of Virginia since 191",
+  "detail": "Teresa Lewis became the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed via lethal injection.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
+  "confidence": "unverified",
+  "added": "2026-09-23"
  }
 ]
