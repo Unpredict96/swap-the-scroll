@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-16-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "US billionaires line up to bankroll Republicans’ election push",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-16"
- },
- {
-  "id": "s-ft-2026-09-16-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Why the US and China are at odds on AI threats",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-16"
- },
- {
-  "id": "s-ft-2026-09-16-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "With AI, ‘I told you so’ will be too late",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-16"
- },
- {
   "id": "s-ft-2026-09-17-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-23"
+ },
+ {
+  "id": "s-ft-2026-09-24-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Global bond sell-off deepens as oil climbs back to $105",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-24"
+ },
+ {
+  "id": "s-ft-2026-09-24-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Emerging markets sell foreign currency bonds at record rate",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-24"
+ },
+ {
+  "id": "s-ft-2026-09-24-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Hasan Piker: the Republican Party’s bogeyman",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-24"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1138,5 +1138,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
   "confidence": "unverified",
   "added": "2026-09-23"
+ },
+ {
+  "id": "s-wiki-2026-09-24-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2019: The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minis",
+  "detail": "The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom",
+  "confidence": "unverified",
+  "added": "2026-09-24"
+ },
+ {
+  "id": "s-wiki-2026-09-24-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1993: Norodom Sihanouk (pictured) became King of Cambodia with the restoration of the monarchy a",
+  "detail": "Norodom Sihanouk (pictured) became King of Cambodia with the restoration of the monarchy after a 23-year interregnum.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Norodom_Sihanouk",
+  "confidence": "unverified",
+  "added": "2026-09-24"
+ },
+ {
+  "id": "s-wiki-2026-09-24-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1992: After his neighbor identified handwriting samples placed on local billboards by police, Ob",
+  "detail": "After his neighbor identified handwriting samples placed on local billboards by police, Oba Chandler was arrested three years after he committed a triple murder in the Tampa Bay area in Florida.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Oba_Chandler",
+  "confidence": "unverified",
+  "added": "2026-09-24"
  }
 ]
