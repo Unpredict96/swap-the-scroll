@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-17-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Trump fails to bend the Fed to his will",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-17"
- },
- {
-  "id": "s-ft-2026-09-17-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "China cuts US Treasury holdings to lowest level since 2008",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-17"
- },
- {
-  "id": "s-ft-2026-09-17-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Getting to know Mr Warsh",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-17"
- },
- {
   "id": "s-ft-2026-09-18-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-24"
+ },
+ {
+  "id": "s-ft-2026-09-25-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-25"
+ },
+ {
+  "id": "s-ft-2026-09-25-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Pomp prevails over substance as Trump hosts Xi",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-25"
+ },
+ {
+  "id": "s-ft-2026-09-25-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "How can we tackle AI’s financial risks?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-25"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1174,5 +1174,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Oba_Chandler",
   "confidence": "unverified",
   "added": "2026-09-24"
+ },
+ {
+  "id": "s-wiki-2026-09-25-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1990: The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu d",
+  "detail": "The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ram_Rath_Yatra",
+  "confidence": "unverified",
+  "added": "2026-09-25"
+ },
+ {
+  "id": "s-wiki-2026-09-25-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1983: In one of the largest prison escapes in British history, 38 Provisional Irish Republican A",
+  "detail": "In one of the largest prison escapes in British history, 38 Provisional Irish Republican Army prisoners hijacked a meals lorry and broke out of HM Prison Maze in County Antrim, Northern Ireland.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Maze_Prison_escape",
+  "confidence": "unverified",
+  "added": "2026-09-25"
+ },
+ {
+  "id": "s-wiki-2026-09-25-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1981: Sandra Day O'Connor (pictured) became the first female justice of the Supreme Court of the",
+  "detail": "Sandra Day O'Connor (pictured) became the first female justice of the Supreme Court of the United States.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_Day_O'Connor",
+  "confidence": "unverified",
+  "added": "2026-09-25"
  }
 ]
