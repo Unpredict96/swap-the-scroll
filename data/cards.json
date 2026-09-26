@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-18-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Yen sinks after BoJ raises rates to highest since 1995",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-18"
- },
- {
-  "id": "s-ft-2026-09-18-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Medical AI has a proof problem",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-18"
- },
- {
-  "id": "s-ft-2026-09-18-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Liechtenstein royals threaten lawsuit over dynasty reforms",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-18"
- },
- {
   "id": "s-ft-2026-09-19-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-25"
+ },
+ {
+  "id": "s-ft-2026-09-26-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-26"
+ },
+ {
+  "id": "s-ft-2026-09-26-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Bond ructions point to new danger zone in markets",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-26"
+ },
+ {
+  "id": "s-ft-2026-09-26-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "The great tourist tax boom",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-26"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1210,5 +1210,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_Day_O'Connor",
   "confidence": "unverified",
   "added": "2026-09-25"
+ },
+ {
+  "id": "s-wiki-2026-09-26-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2016: The Ecnomiohyla rabborum became extinct when the last known surviving member died in capti",
+  "detail": "The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ecnomiohyla_rabborum",
+  "confidence": "unverified",
+  "added": "2026-09-26"
+ },
+ {
+  "id": "s-wiki-2026-09-26-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2014: Forty-three students of the Ayotzinapa Rural Teachers' College in Iguala, Mexico, were kid",
+  "detail": "Forty-three students of the Ayotzinapa Rural Teachers' College in Iguala, Mexico, were kidnapped and probably later killed.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ayotzinapa_Rural_Normal_School",
+  "confidence": "unverified",
+  "added": "2026-09-26"
+ },
+ {
+  "id": "s-wiki-2026-09-26-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2010: Scottish aid worker Linda Norgrove and three Afghan colleagues were kidnapped by members o",
+  "detail": "Scottish aid worker Linda Norgrove and three Afghan colleagues were kidnapped by members of the Taliban in Kunar Province, Afghanistan.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Death_of_Linda_Norgrove",
+  "confidence": "unverified",
+  "added": "2026-09-26"
  }
 ]
