@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-21-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-21"
- },
- {
-  "id": "s-ft-2026-09-21-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Germany’s Merz stands his ground but for how long?",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-21"
- },
- {
-  "id": "s-ft-2026-09-21-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-21"
- },
- {
   "id": "s-ft-2026-09-22-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-28"
+ },
+ {
+  "id": "s-ft-2026-09-29-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-29"
+ },
+ {
+  "id": "s-ft-2026-09-29-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Nvidia turns to insurers to spread the risk of AI build-out",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-29"
+ },
+ {
+  "id": "s-ft-2026-09-29-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "OpenAI axes next model citing safety issues",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-09-29"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1318,5 +1318,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/2009_Guinean_protests",
   "confidence": "unverified",
   "added": "2026-09-28"
+ },
+ {
+  "id": "s-wiki-2026-09-29-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2006: Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet",
+  "detail": "Gol Transportes Aéreos Flight 1907 collided in mid-air with an Embraer Legacy business jet near Peixoto de Azevedo, Brazil, killing 154 people and triggering a national aviation crisis.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907",
+  "confidence": "unverified",
+  "added": "2026-09-29"
+ },
+ {
+  "id": "s-wiki-2026-09-29-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2005: John Roberts became the 17th Chief Justice of the United States; he would be the first Chi",
+  "detail": "John Roberts became the 17th Chief Justice of the United States; he would be the first Chief Justice to serve for twenty years since Melville Fuller in 1908.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/John_Roberts",
+  "confidence": "unverified",
+  "added": "2026-09-29"
+ },
+ {
+  "id": "s-wiki-2026-09-29-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2004: Archaeologists and volunteers began excavation of the remains of Fort Tanjong Katong in Si",
+  "detail": "Archaeologists and volunteers began excavation of the remains of Fort Tanjong Katong in Singapore.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Tanjong_Katong",
+  "confidence": "unverified",
+  "added": "2026-09-29"
  }
 ]
