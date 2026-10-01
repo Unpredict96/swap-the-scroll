@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-23-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "US government and Gulf billionaires back Todd Boehly bid for Lukoil assets",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-23"
- },
- {
-  "id": "s-ft-2026-09-23-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Has Trump caged his China hawks?",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-23"
- },
- {
-  "id": "s-ft-2026-09-23-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The battle between the Fed and Trump",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-23"
- },
- {
   "id": "s-ft-2026-09-24-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-09-30"
+ },
+ {
+  "id": "s-ft-2026-10-01-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-01"
+ },
+ {
+  "id": "s-ft-2026-10-01-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Four potential positives from higher bond yields",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-01"
+ },
+ {
+  "id": "s-ft-2026-10-01-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "An optimist’s guide to the bond market",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-01"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1390,5 +1390,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Jyllands-Posten",
   "confidence": "unverified",
   "added": "2026-09-30"
+ },
+ {
+  "id": "s-wiki-2026-10-01-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2022: After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 A",
+  "detail": "After losing a league home match to their local rivals, Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch at Kanjuruhan Stadium, prompting police to fire tear gas and causing a stampede that killed 135.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Liga_1_(Indonesia)",
+  "confidence": "unverified",
+  "added": "2026-10-01"
+ },
+ {
+  "id": "s-wiki-2026-10-01-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2018: The International Court of Justice ruled that Chile was under no obligation to restore Bol",
+  "detail": "The International Court of Justice ruled that Chile was under no obligation to restore Bolivia's access to the Pacific Ocean, which it had lost in the 19th century.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/International_Court_of_Justice",
+  "confidence": "unverified",
+  "added": "2026-10-01"
+ },
+ {
+  "id": "s-wiki-2026-10-01-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2017: A lone gunman fired more than 1,000 rounds of ammunition from his hotel suite on a crowd a",
+  "detail": "A lone gunman fired more than 1,000 rounds of ammunition from his hotel suite on a crowd attending the Route 91 Harvest music festival on the Las Vegas Strip, resulting in 60 deaths and 867 injuries.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_Paddock",
+  "confidence": "unverified",
+  "added": "2026-10-01"
  }
 ]
