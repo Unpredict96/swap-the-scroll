@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-25-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-25"
- },
- {
-  "id": "s-ft-2026-09-25-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Pomp prevails over substance as Trump hosts Xi",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-25"
- },
- {
-  "id": "s-ft-2026-09-25-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "How can we tackle AI’s financial risks?",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-25"
- },
- {
   "id": "s-ft-2026-09-26-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-10-02"
+ },
+ {
+  "id": "s-ft-2026-10-03-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-03"
+ },
+ {
+  "id": "s-ft-2026-10-03-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "How airlines try to weed out rogue pilots",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-03"
+ },
+ {
+  "id": "s-ft-2026-10-03-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "China, America and the new Great Game",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-03"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1462,5 +1462,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
   "confidence": "unverified",
   "added": "2026-10-02"
+ },
+ {
+  "id": "s-wiki-2026-10-03-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, res",
+  "detail": "A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck",
+  "confidence": "unverified",
+  "added": "2026-10-03"
+ },
+ {
+  "id": "s-wiki-2026-10-03-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2008: The Emergency Economic Stabilization Act of 2008, establishing the Troubled Asset Relief P",
+  "detail": "The Emergency Economic Stabilization Act of 2008, establishing the Troubled Asset Relief Program, commonly referred to as a bailout of the U.S. financial system, was enacted.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008",
+  "confidence": "unverified",
+  "added": "2026-10-03"
+ },
+ {
+  "id": "s-wiki-2026-10-03-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2003: Roy Horn of the American entertainment duo Siegfried & Roy (both pictured) was mauled by a",
+  "detail": "Roy Horn of the American entertainment duo Siegfried & Roy (both pictured) was mauled by a tiger during a performance at the Mirage on the Las Vegas Strip.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Siegfried_%26_Roy",
+  "confidence": "unverified",
+  "added": "2026-10-03"
  }
 ]
