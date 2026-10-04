@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-26-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-26"
- },
- {
-  "id": "s-ft-2026-09-26-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Bond ructions point to new danger zone in markets",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-26"
- },
- {
-  "id": "s-ft-2026-09-26-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The great tourist tax boom",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-26"
- },
- {
   "id": "s-ft-2026-09-27-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-10-03"
+ },
+ {
+  "id": "s-ft-2026-10-04-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-04"
+ },
+ {
+  "id": "s-ft-2026-10-04-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Why the IPO market is booming and busting",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+  "confidence": "verified",
+  "added": "2026-10-04"
+ },
+ {
+  "id": "s-ft-2026-10-04-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Dear all: how bosses should talk to the troops",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-04"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1498,5 +1498,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Siegfried_%26_Roy",
   "confidence": "unverified",
   "added": "2026-10-03"
+ },
+ {
+  "id": "s-wiki-2026-10-04-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1943: World War II: Allied forces executed Operation Leader, an air raid against German shipping",
+  "detail": "World War II: Allied forces executed Operation Leader, an air raid against German shipping near Bodø, Norway.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II",
+  "confidence": "unverified",
+  "added": "2026-10-04"
+ },
+ {
+  "id": "s-wiki-2026-10-04-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1941: Willie Gillis, one of Norman Rockwell's trademark characters, debuted on the cover of The ",
+  "detail": "Willie Gillis, one of Norman Rockwell's trademark characters, debuted on the cover of The Saturday Evening Post.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Willie_Gillis",
+  "confidence": "unverified",
+  "added": "2026-10-04"
+ },
+ {
+  "id": "s-wiki-2026-10-04-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1927: Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore.",
+  "detail": "Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gutzon_Borglum",
+  "confidence": "unverified",
+  "added": "2026-10-04"
  }
 ]
