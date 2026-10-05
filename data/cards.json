@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-27-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "US housing crunch puts private equity in midterm campaign crosshairs",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-27"
- },
- {
-  "id": "s-ft-2026-09-27-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "De Beers bets on a taste for the real to restore diamonds’ sparkle",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-27"
- },
- {
-  "id": "s-ft-2026-09-27-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The executives going ‘fractional’, not freelance",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27",
-  "confidence": "verified",
-  "added": "2026-09-27"
- },
- {
   "id": "s-ft-2026-09-28-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-10-04"
+ },
+ {
+  "id": "s-ft-2026-10-05-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Flávio Bolsonaro takes commanding lead in Brazil election",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-05"
+ },
+ {
+  "id": "s-ft-2026-10-05-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Brazil’s Bolsonaro dynasty closes in on stunning comeback",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/1ab64d24-0f32-4dc8-86b5-20d06e3b3588?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-05"
+ },
+ {
+  "id": "s-ft-2026-10-05-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Russia’s new drive to crush Ukraine",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-05"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1534,5 +1534,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Gutzon_Borglum",
   "confidence": "unverified",
   "added": "2026-10-04"
+ },
+ {
+  "id": "s-wiki-2026-10-05-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2014: Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fat",
+  "detail": "Formula One racing driver Jules Bianchi crashed at the Japanese Grand Prix, sustaining fatal head injuries that would kill him the following year.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Bianchi",
+  "confidence": "unverified",
+  "added": "2026-10-05"
+ },
+ {
+  "id": "s-wiki-2026-10-05-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: Two Chinese cargo ships were attacked and their crews murdered on a stretch of the Mekong ",
+  "detail": "Two Chinese cargo ships were attacked and their crews murdered on a stretch of the Mekong River in far northern Thailand.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mekong_River_massacre",
+  "confidence": "unverified",
+  "added": "2026-10-05"
+ },
+ {
+  "id": "s-wiki-2026-10-05-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2000: Colour revolutions: During protests over irregularities in the Yugoslavian general electio",
+  "detail": "Colour revolutions: During protests over irregularities in the Yugoslavian general election, a wheel-loader was driven into the Radio Television of Serbia building, giving the protests the nickname \"Bulldozer Revolution\".",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Colour_revolution",
+  "confidence": "unverified",
+  "added": "2026-10-05"
  }
 ]
