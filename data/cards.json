@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-09-29-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-29"
- },
- {
-  "id": "s-ft-2026-09-29-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Nvidia turns to insurers to spread the risk of AI build-out",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-29"
- },
- {
-  "id": "s-ft-2026-09-29-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "OpenAI axes next model citing safety issues",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-09-29"
- },
- {
   "id": "s-ft-2026-09-30-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-10-06"
+ },
+ {
+  "id": "s-ft-2026-10-07-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "SpaceX looks to raise $40bn to buy Nvidia chips",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-07"
+ },
+ {
+  "id": "s-ft-2026-10-07-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Robust AI spending sets investors up for another bumper US earnings season",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-07"
+ },
+ {
+  "id": "s-ft-2026-10-07-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "The taxman comes for China’s offshore riches",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-07"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1606,5 +1606,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
   "confidence": "unverified",
   "added": "2026-10-06"
+ },
+ {
+  "id": "s-wiki-2026-10-07-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2008: 2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid imp",
+  "detail": "2008 TC3 exploded above the Nubian Desert in Sudan, in the first time that an asteroid impact had been predicted prior to atmospheric entry.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2008_TC3",
+  "confidence": "unverified",
+  "added": "2026-10-07"
+ },
+ {
+  "id": "s-wiki-2026-10-07-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2006: Anna Politkovskaya (pictured), a Russian journalist and human-rights activist, was assassi",
+  "detail": "Anna Politkovskaya (pictured), a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Anna_Politkovskaya",
+  "confidence": "unverified",
+  "added": "2026-10-07"
+ },
+ {
+  "id": "s-wiki-2026-10-07-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2006: Anna Politkovskaya, a Russian journalist and human-rights activist, was assassinated in th",
+  "detail": "Anna Politkovskaya, a Russian journalist and human-rights activist, was assassinated in the elevator of her apartment block in Moscow.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Anna_Politkovskaya",
+  "confidence": "unverified",
+  "added": "2026-10-07"
  }
 ]
