@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-03-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-03"
- },
- {
-  "id": "s-ft-2026-10-03-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "How airlines try to weed out rogue pilots",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-03"
- },
- {
-  "id": "s-ft-2026-10-03-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "China, America and the new Great Game",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-03"
- },
- {
   "id": "s-ft-2026-10-04-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
   "confidence": "verified",
   "added": "2026-10-10"
+ },
+ {
+  "id": "s-ft-2026-10-11-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-11"
+ },
+ {
+  "id": "s-ft-2026-10-11-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "US hits commercial tanker in Gulf of Oman as tensions flare",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-11"
+ },
+ {
+  "id": "s-ft-2026-10-11-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "The fall of Germany’s ex-spymaster",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-11"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1750,5 +1750,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Spiro_Agnew",
   "confidence": "unverified",
   "added": "2026-10-10"
+ },
+ {
+  "id": "s-wiki-2026-10-11-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2002: A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured)",
+  "detail": "A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Myyrmanni_bombing",
+  "confidence": "unverified",
+  "added": "2026-10-11"
+ },
+ {
+  "id": "s-wiki-2026-10-11-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1987: Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control",
+  "detail": "Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+  "confidence": "unverified",
+  "added": "2026-10-11"
+ },
+ {
+  "id": "s-wiki-2026-10-11-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1987: An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand grea",
+  "detail": "An estimated 750,000 people attended the \"Great March\" in Washington, D.C., to demand greater civil rights for the LGBT community.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights",
+  "confidence": "unverified",
+  "added": "2026-10-11"
  }
 ]
