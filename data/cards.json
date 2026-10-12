@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-04-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-04"
- },
- {
-  "id": "s-ft-2026-10-04-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Why the IPO market is booming and busting",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
-  "confidence": "verified",
-  "added": "2026-10-04"
- },
- {
-  "id": "s-ft-2026-10-04-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Dear all: how bosses should talk to the troops",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-04"
- },
- {
   "id": "s-ft-2026-10-05-0",
   "group": "macro",
   "kind": "signal",
@@ -814,6 +778,42 @@
   "sourceUrl": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
   "confidence": "verified",
   "added": "2026-10-11"
+ },
+ {
+  "id": "s-ft-2026-10-12-0",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-12"
+ },
+ {
+  "id": "s-ft-2026-10-12-1",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-12"
+ },
+ {
+  "id": "s-ft-2026-10-12-2",
+  "group": "macro",
+  "kind": "signal",
+  "tag": "Worth a read",
+  "hook": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-12"
  },
  {
   "id": "s-wiki-2026-09-15-0",
@@ -1786,5 +1786,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Second_National_March_on_Washington_for_Lesbian_and_Gay_Rights",
   "confidence": "unverified",
   "added": "2026-10-11"
+ },
+ {
+  "id": "s-wiki-2026-10-12-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leadin",
+  "detail": "Twelve people were killed in an apartment-building collapse (pictured) in Medellín, leading to new construction laws being passed in Colombia.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Collapse_of_the_Space_Building",
+  "confidence": "unverified",
+  "added": "2026-10-12"
+ },
+ {
+  "id": "s-wiki-2026-10-12-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1992: An earthquake with a magnitude of 5.8 or 5.9 struck south of Cairo, Egypt, killing 545 peo",
+  "detail": "An earthquake with a magnitude of 5.8 or 5.9 struck south of Cairo, Egypt, killing 545 people.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales",
+  "confidence": "unverified",
+  "added": "2026-10-12"
+ },
+ {
+  "id": "s-wiki-2026-10-12-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1984: The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, Eng",
+  "detail": "The Provisional Irish Republican Army detonated a bomb at the Grand Hotel in Brighton, England, in a failed attempt to assassinate British prime minister Margaret Thatcher and her cabinet.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army",
+  "confidence": "unverified",
+  "added": "2026-10-12"
  }
 ]
