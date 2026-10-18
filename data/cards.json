@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-10-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Trump agrees deal with Putin for Russia to release diesel",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-10"
- },
- {
-  "id": "s-ft-2026-10-10-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-10"
- },
- {
-  "id": "s-ft-2026-10-10-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Napa Valley’s hangover",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
-  "confidence": "verified",
-  "added": "2026-10-10"
- },
- {
   "id": "s-ft-2026-10-11-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-17"
  },
  {
-  "id": "s-wiki-2026-09-17-0",
-  "group": "general",
+  "id": "s-ft-2026-10-18-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2018: The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria",
-  "detail": "The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
-  "confidence": "unverified",
-  "added": "2026-09-17"
+  "tag": "Worth a read",
+  "hook": "America’s $10tn AI infrastructure boom is starting to fray",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-18"
  },
  {
-  "id": "s-wiki-2026-09-17-1",
-  "group": "general",
+  "id": "s-ft-2026-10-18-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2011: Adbusters, a Canadian anti-consumerist publication, organized a protest against corporate ",
-  "detail": "Adbusters, a Canadian anti-consumerist publication, organized a protest against corporate influence on democracy at Zuccotti Park in New York City that became known as Occupy Wall Street.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Adbusters",
-  "confidence": "unverified",
-  "added": "2026-09-17"
+  "tag": "Worth a read",
+  "hook": "Global economy set for AI-driven surge, FT survey suggests",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-18"
  },
  {
-  "id": "s-wiki-2026-09-17-2",
-  "group": "general",
+  "id": "s-ft-2026-10-18-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2008: Seven al-Qaeda fighters attack the embassy of the United States in Sanaa, Yemen, leaving 2",
-  "detail": "Seven al-Qaeda fighters attack the embassy of the United States in Sanaa, Yemen, leaving 20 people dead.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Al-Qaeda_in_Yemen",
-  "confidence": "unverified",
-  "added": "2026-09-17"
+  "tag": "Worth a read",
+  "hook": "Anthropic turns to lawyers to help AI agents strike deals",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-18"
  },
  {
   "id": "s-wiki-2026-09-18-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Baton_Rouge%2C_Louisiana",
   "confidence": "unverified",
   "added": "2026-10-17"
+ },
+ {
+  "id": "s-wiki-2026-10-18-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2019: Protests in Santiago that started 11 days prior escalated into open battle against the Chi",
+  "detail": "Protests in Santiago that started 11 days prior escalated into open battle against the Chilean national police, forcing President Sebastián Piñera to declare a state of emergency.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Santiago",
+  "confidence": "unverified",
+  "added": "2026-10-18"
+ },
+ {
+  "id": "s-wiki-2026-10-18-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1993: Nihilism, the first professional runway show from the British designer Alexander McQueen, ",
+  "detail": "Nihilism, the first professional runway show from the British designer Alexander McQueen, was staged in London.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nihilism_(collection)",
+  "confidence": "unverified",
+  "added": "2026-10-18"
+ },
+ {
+  "id": "s-wiki-2026-10-18-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1968: At the Summer Olympics in Mexico City, American athlete Bob Beamon (pictured) achieved a d",
+  "detail": "At the Summer Olympics in Mexico City, American athlete Bob Beamon (pictured) achieved a distance of 8.90 m (29.2 ft) in the long jump event, setting a world record that stood for 23 years.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+  "confidence": "unverified",
+  "added": "2026-10-18"
  }
 ]
