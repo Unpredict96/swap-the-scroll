@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-11-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-11"
- },
- {
-  "id": "s-ft-2026-10-11-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "US hits commercial tanker in Gulf of Oman as tensions flare",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-11"
- },
- {
-  "id": "s-ft-2026-10-11-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The fall of Germany’s ex-spymaster",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-11"
- },
- {
   "id": "s-ft-2026-10-12-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-18"
  },
  {
-  "id": "s-wiki-2026-09-18-0",
-  "group": "general",
+  "id": "s-ft-2026-10-19-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1981: While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques d",
-  "detail": "While posing as an aristocrat, Belgian serial killer Nestor Pirotte murdered an antiques dealer in Brussels, for which crime he was sentenced to death.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Nestor_Pirotte",
-  "confidence": "unverified",
-  "added": "2026-09-18"
+  "tag": "Worth a read",
+  "hook": "Macron rejects interior minister’s resignation after French riots",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-19"
  },
  {
-  "id": "s-wiki-2026-09-18-1",
-  "group": "general",
+  "id": "s-ft-2026-10-19-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1964: The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place",
-  "detail": "The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place in Athens.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wedding_of_Constantine_II_and_Princess_Anne-Marie",
-  "confidence": "unverified",
-  "added": "2026-09-18"
+  "tag": "Worth a read",
+  "hook": "Macron faces political firestorm after riots",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-19"
  },
  {
-  "id": "s-wiki-2026-09-18-2",
-  "group": "general",
+  "id": "s-ft-2026-10-19-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1962: Aeroflot Flight 213 crashed into a mountain near Chersky Airport, killing 32 people.",
-  "detail": "Aeroflot Flight 213 crashed into a mountain near Chersky Airport, killing 32 people.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_213",
-  "confidence": "unverified",
-  "added": "2026-09-18"
+  "tag": "Worth a read",
+  "hook": "Americans are unhappy. How will they vote in the midterms?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-19"
  },
  {
   "id": "s-wiki-2026-09-19-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
   "confidence": "unverified",
   "added": "2026-10-18"
+ },
+ {
+  "id": "s-wiki-2026-10-19-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2017: Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interste",
+  "detail": "Canadian astronomer Robert Weryk discovered ʻOumuamua (depicted), the first known interstellar object detected passing through the Solar System.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Weryk",
+  "confidence": "unverified",
+  "added": "2026-10-19"
+ },
+ {
+  "id": "s-wiki-2026-10-19-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2013: British YouTube collective the Sidemen were formed as a Rockstar Games Social Club group i",
+  "detail": "British YouTube collective the Sidemen were formed as a Rockstar Games Social Club group in Grand Theft Auto Online.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/YouTube",
+  "confidence": "unverified",
+  "added": "2026-10-19"
+ },
+ {
+  "id": "s-wiki-2026-10-19-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2005: Hurricane Wilma (pictured) became the most intense Atlantic hurricane on record with a min",
+  "detail": "Hurricane Wilma (pictured) became the most intense Atlantic hurricane on record with a minimum atmospheric pressure of 882 mbar (26.05 inHg).",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hurricane_Wilma",
+  "confidence": "unverified",
+  "added": "2026-10-19"
  }
 ]
