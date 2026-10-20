@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-12-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-12"
- },
- {
-  "id": "s-ft-2026-10-12-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-12"
- },
- {
-  "id": "s-ft-2026-10-12-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-12"
- },
- {
   "id": "s-ft-2026-10-13-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-19"
  },
  {
-  "id": "s-wiki-2026-09-19-0",
-  "group": "general",
+  "id": "s-ft-2026-10-20-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2023: Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolia",
-  "detail": "Chinese authorities cancelled a run of performances of The Mongol Khan, the first Mongolian play to be performed internationally, forty minutes before its planned premiere in Hohhot.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/The_Mongol_Khan",
-  "confidence": "unverified",
-  "added": "2026-09-19"
+  "tag": "Worth a read",
+  "hook": "AI debt worries spark surge in default insurance trading",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-20"
  },
  {
-  "id": "s-wiki-2026-09-19-1",
-  "group": "general",
+  "id": "s-ft-2026-10-20-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2011: Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball's all-time career ",
-  "detail": "Mariano Rivera surpassed Trevor Hoffman to become Major League Baseball's all-time career leader in saves.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Mariano_Rivera",
-  "confidence": "unverified",
-  "added": "2026-09-19"
+  "tag": "Worth a read",
+  "hook": "South Korean data centre builder tumbles 32% on trading debut",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-20"
  },
  {
-  "id": "s-wiki-2026-09-19-2",
-  "group": "general",
+  "id": "s-ft-2026-10-20-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1995: Industrial Society and Its Future, the manifesto of American domestic terrorist Ted Kaczyn",
-  "detail": "Industrial Society and Its Future, the manifesto of American domestic terrorist Ted Kaczynski, was published in The Washington Post almost three months after it was submitted.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future",
-  "confidence": "unverified",
-  "added": "2026-09-19"
+  "tag": "Worth a read",
+  "hook": "Britain’s £100,000 tax trap",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-20"
  },
  {
   "id": "s-wiki-2026-09-20-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Hurricane_Wilma",
   "confidence": "unverified",
   "added": "2026-10-19"
+ },
+ {
+  "id": "s-wiki-2026-10-20-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2024: Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president ",
+  "detail": "Prabowo Subianto and Gibran Rakabuming Raka were sworn in as president and vice president of Indonesia, becoming the oldest and the youngest person to assume respective offices.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Prabowo_Subianto",
+  "confidence": "unverified",
+  "added": "2026-10-20"
+ },
+ {
+  "id": "s-wiki-2026-10-20-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2022: Protests broke out across Chad after President Mahamat Déby (pictured) declared his intent",
+  "detail": "Protests broke out across Chad after President Mahamat Déby (pictured) declared his intentions to extend his rule by another two years.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2022_Chadian_protests",
+  "confidence": "unverified",
+  "added": "2026-10-20"
+ },
+ {
+  "id": "s-wiki-2026-10-20-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: First Libyan Civil War: Muammar Gaddafi, the deposed Libyan leader, was captured by rebel ",
+  "detail": "First Libyan Civil War: Muammar Gaddafi, the deposed Libyan leader, was captured by rebel forces during the Battle of Sirte, and was killed shortly thereafter.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
+  "confidence": "unverified",
+  "added": "2026-10-20"
  }
 ]
