@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-13-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
-  "confidence": "verified",
-  "added": "2026-10-13"
- },
- {
-  "id": "s-ft-2026-10-13-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The elections that could remake Europe",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-13"
- },
- {
-  "id": "s-ft-2026-10-13-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Why Trump is going for Zelenskyy’s jugular",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-13"
- },
- {
   "id": "s-ft-2026-10-14-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-20"
  },
  {
-  "id": "s-wiki-2026-09-20-0",
-  "group": "general",
+  "id": "s-ft-2026-10-21-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2011: The United States military ended its \"don't ask, don't tell\" policy, consequently allowing",
-  "detail": "The United States military ended its \"don't ask, don't tell\" policy, consequently allowing gay and lesbian people to serve openly.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Don't_ask%2C_don't_tell",
-  "confidence": "unverified",
-  "added": "2026-09-20"
+  "tag": "Worth a read",
+  "hook": "SpaceX and Tesla boards explore potential merger",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-21"
  },
  {
-  "id": "s-wiki-2026-09-20-1",
-  "group": "general",
+  "id": "s-ft-2026-10-21-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2008: An explosive-laden truck detonated in front of the Marriott hotel in Islamabad, Pakistan, ",
-  "detail": "An explosive-laden truck detonated in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Islamabad_Marriott_Hotel_bombing",
-  "confidence": "unverified",
-  "added": "2026-09-20"
+  "tag": "Worth a read",
+  "hook": "To replace Starlink, Europe will have to reawaken its animal spirits",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/dcf3d157-de7d-4b3a-ab6a-115558d6a47b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-21"
  },
  {
-  "id": "s-wiki-2026-09-20-2",
-  "group": "general",
+  "id": "s-ft-2026-10-21-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2000: The Real Irish Republican Army carried out a rocket-launcher attack on the MI6 headquarter",
-  "detail": "The Real Irish Republican Army carried out a rocket-launcher attack on the MI6 headquarters in London, with no casualties and minimal damage recorded.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Real_Irish_Republican_Army",
-  "confidence": "unverified",
-  "added": "2026-09-20"
+  "tag": "Worth a read",
+  "hook": "China’s nightmare: becoming the next Japan",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-21"
  },
  {
   "id": "s-wiki-2026-09-21-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
   "confidence": "unverified",
   "added": "2026-10-20"
+ },
+ {
+  "id": "s-wiki-2026-10-21-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1994: North Korea and the United States signed the Agreed Framework to limit the former's nuclea",
+  "detail": "North Korea and the United States signed the Agreed Framework to limit the former's nuclear weapons program and to normalize relations between the two countries.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Agreed_Framework",
+  "confidence": "unverified",
+  "added": "2026-10-21"
+ },
+ {
+  "id": "s-wiki-2026-10-21-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1994: In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seon",
+  "detail": "In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed (pictured).",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Seoul",
+  "confidence": "unverified",
+  "added": "2026-10-21"
+ },
+ {
+  "id": "s-wiki-2026-10-21-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "1968: At the height of the Japanese university protests, protesters occupied Shinjuku Station in",
+  "detail": "At the height of the Japanese university protests, protesters occupied Shinjuku Station in Tokyo and clashed violently with police.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/1968%E2%80%931969_Japanese_university_protests",
+  "confidence": "unverified",
+  "added": "2026-10-21"
  }
 ]
