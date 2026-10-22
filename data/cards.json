@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-14-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Marine Le Pen vows ‘trial of strength’ with EU",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-14"
- },
- {
-  "id": "s-ft-2026-10-14-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-14"
- },
- {
-  "id": "s-ft-2026-10-14-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "The art of living dangerously",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-14"
- },
- {
   "id": "s-ft-2026-10-15-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-21"
  },
  {
-  "id": "s-wiki-2026-09-21-0",
-  "group": "general",
+  "id": "s-ft-2026-10-22-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nai",
-  "detail": "Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack",
-  "confidence": "unverified",
-  "added": "2026-09-21"
+  "tag": "Worth a read",
+  "hook": "Global stocks tumble as oil prices rise",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-22"
  },
  {
-  "id": "s-wiki-2026-09-21-1",
-  "group": "general",
+  "id": "s-ft-2026-10-22-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2004: American rock band Green Day released their seventh studio album, American Idiot.",
-  "detail": "American rock band Green Day released their seventh studio album, American Idiot.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Green_Day",
-  "confidence": "unverified",
-  "added": "2026-09-21"
+  "tag": "Worth a read",
+  "hook": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-22"
  },
  {
-  "id": "s-wiki-2026-09-21-2",
-  "group": "general",
+  "id": "s-ft-2026-10-22-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2001: Several British Muslim youths in Peterborough, England, murdered 17-year-old Ross Parker, ",
-  "detail": "Several British Muslim youths in Peterborough, England, murdered 17-year-old Ross Parker, leading to debate over whether the British media failed to cover racially motivated crimes with white victims.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Peterborough",
-  "confidence": "unverified",
-  "added": "2026-09-21"
+  "tag": "Worth a read",
+  "hook": "Which G7 economy is the profligacy poster child?",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-22"
  },
  {
   "id": "s-wiki-2026-09-22-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/1968%E2%80%931969_Japanese_university_protests",
   "confidence": "unverified",
   "added": "2026-10-21"
+ },
+ {
+  "id": "s-wiki-2026-10-22-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2015: A sword-wielding man attacked students and teachers at a high school in Trollhättan, killi",
+  "detail": "A sword-wielding man attacked students and teachers at a high school in Trollhättan, killing three people in Sweden's deadliest school attack.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2015_Trollh%C3%A4ttan_school_attack",
+  "confidence": "unverified",
+  "added": "2026-10-22"
+ },
+ {
+  "id": "s-wiki-2026-10-22-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2014: In Ottawa, Canada, the downtown core was placed on lockdown after a series of shootings at",
+  "detail": "In Ottawa, Canada, the downtown core was placed on lockdown after a series of shootings at Parliament Hill.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ottawa",
+  "confidence": "unverified",
+  "added": "2026-10-22"
+ },
+ {
+  "id": "s-wiki-2026-10-22-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2005: Bellview Airlines Flight 210 crashed in Ogun State, Nigeria, killing all 117 people on boa",
+  "detail": "Bellview Airlines Flight 210 crashed in Ogun State, Nigeria, killing all 117 people on board.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Bellview_Airlines_Flight_210",
+  "confidence": "unverified",
+  "added": "2026-10-22"
  }
 ]
