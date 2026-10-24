@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-16-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-16"
- },
- {
-  "id": "s-ft-2026-10-16-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Fight night for Trump’s America",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-16"
- },
- {
-  "id": "s-ft-2026-10-16-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "US business leaders are waking up to the perils of plutopopulism",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-  "confidence": "verified",
-  "added": "2026-10-16"
- },
- {
   "id": "s-ft-2026-10-17-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-23"
  },
  {
-  "id": "s-wiki-2026-09-23-0",
-  "group": "general",
+  "id": "s-ft-2026-10-24-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2019: The British travel company Thomas Cook Group ceased operations with immediate effect, leav",
-  "detail": "The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
-  "confidence": "unverified",
-  "added": "2026-09-23"
+  "tag": "Worth a read",
+  "hook": "US executives quit $25bn gas venture over claims of secret Russian control",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-24"
  },
  {
-  "id": "s-wiki-2026-09-23-1",
-  "group": "general",
+  "id": "s-ft-2026-10-24-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2016: Following a number of high-profile sexual assaults, major reforms were enacted to strength",
-  "detail": "Following a number of high-profile sexual assaults, major reforms were enacted to strengthen laws related to rape in Germany.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Rape_in_Germany",
-  "confidence": "unverified",
-  "added": "2026-09-23"
+  "tag": "Worth a read",
+  "hook": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-24"
  },
  {
-  "id": "s-wiki-2026-09-23-2",
-  "group": "general",
+  "id": "s-ft-2026-10-24-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2010: Teresa Lewis became the first woman to be executed by the U.S. state of Virginia since 191",
-  "detail": "Teresa Lewis became the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed via lethal injection.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-  "confidence": "unverified",
-  "added": "2026-09-23"
+  "tag": "Worth a read",
+  "hook": "France is looking ungovernable. And it’s going to get worse",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+  "confidence": "verified",
+  "added": "2026-10-24"
  },
  {
   "id": "s-wiki-2026-09-24-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/2018_Rome_escalator_accident",
   "confidence": "unverified",
   "added": "2026-10-23"
+ },
+ {
+  "id": "s-wiki-2026-10-24-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2015: Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political",
+  "detail": "Lam Wing-kee, the owner of Causeway Bay Books in Hong Kong, known for publishing political books banned in mainland China, was abducted by Chinese authorities.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Lam_Wing-kee",
+  "confidence": "unverified",
+  "added": "2026-10-24"
+ },
+ {
+  "id": "s-wiki-2026-10-24-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2004: English football club Manchester United defeated rivals Arsenal 2–0 in the Battle of the B",
+  "detail": "English football club Manchester United defeated rivals Arsenal 2–0 in the Battle of the Buffet, ending the latter's record-breaking unbeaten run.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Manchester_United_F.C.",
+  "confidence": "unverified",
+  "added": "2026-10-24"
+ },
+ {
+  "id": "s-wiki-2026-10-24-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2003: The inaugural Afro-Asian Games opened in Hyderabad, with 2,040 athletes from 96 nations co",
+  "detail": "The inaugural Afro-Asian Games opened in Hyderabad, with 2,040 athletes from 96 nations competing.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2003_Afro-Asian_Games",
+  "confidence": "unverified",
+  "added": "2026-10-24"
  }
 ]
