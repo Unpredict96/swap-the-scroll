@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-17-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Trump exempts Russia from further sanctions mandated by new law",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-17"
- },
- {
-  "id": "s-ft-2026-10-17-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Trump’s press secretary Katie Zacharia fired after five days",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-17"
- },
- {
-  "id": "s-ft-2026-10-17-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-17"
- },
- {
   "id": "s-ft-2026-10-18-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-24"
  },
  {
-  "id": "s-wiki-2026-09-24-0",
-  "group": "general",
+  "id": "s-ft-2026-10-25-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2019: The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minis",
-  "detail": "The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom",
-  "confidence": "unverified",
-  "added": "2026-09-24"
+  "tag": "Worth a read",
+  "hook": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-25"
  },
  {
-  "id": "s-wiki-2026-09-24-1",
-  "group": "general",
+  "id": "s-ft-2026-10-25-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1993: Norodom Sihanouk (pictured) became King of Cambodia with the restoration of the monarchy a",
-  "detail": "Norodom Sihanouk (pictured) became King of Cambodia with the restoration of the monarchy after a 23-year interregnum.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Norodom_Sihanouk",
-  "confidence": "unverified",
-  "added": "2026-09-24"
+  "tag": "Worth a read",
+  "hook": "The right’s obsession with ‘civil war’ in Britain",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-25"
  },
  {
-  "id": "s-wiki-2026-09-24-2",
-  "group": "general",
+  "id": "s-ft-2026-10-25-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1992: After his neighbor identified handwriting samples placed on local billboards by police, Ob",
-  "detail": "After his neighbor identified handwriting samples placed on local billboards by police, Oba Chandler was arrested three years after he committed a triple murder in the Tampa Bay area in Florida.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Oba_Chandler",
-  "confidence": "unverified",
-  "added": "2026-09-24"
+  "tag": "Worth a read",
+  "hook": "Why 17 is not the magic number in industrial policy",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-25"
  },
  {
   "id": "s-wiki-2026-09-25-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/2003_Afro-Asian_Games",
   "confidence": "unverified",
   "added": "2026-10-24"
+ },
+ {
+  "id": "s-wiki-2026-10-25-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2022: At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdo",
+  "detail": "At 49 days, Liz Truss concluded the shortest tenure as prime minister of the United Kingdom.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Liz_Truss",
+  "confidence": "unverified",
+  "added": "2026-10-25"
+ },
+ {
+  "id": "s-wiki-2026-10-25-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2010: Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions",
+  "detail": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Merapi",
+  "confidence": "unverified",
+  "added": "2026-10-25"
+ },
+ {
+  "id": "s-wiki-2026-10-25-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2001: Windows XP, one of the most popular and widely used versions of the Microsoft Windows oper",
+  "detail": "Windows XP, one of the most popular and widely used versions of the Microsoft Windows operating system, was released for retail sale.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Windows_XP",
+  "confidence": "unverified",
+  "added": "2026-10-25"
  }
 ]
