@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-18-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "America’s $10tn AI infrastructure boom is starting to fray",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-18"
- },
- {
-  "id": "s-ft-2026-10-18-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Global economy set for AI-driven surge, FT survey suggests",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-18"
- },
- {
-  "id": "s-ft-2026-10-18-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Anthropic turns to lawyers to help AI agents strike deals",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-18"
- },
- {
   "id": "s-ft-2026-10-19-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-25"
  },
  {
-  "id": "s-wiki-2026-09-25-0",
-  "group": "general",
+  "id": "s-ft-2026-10-26-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1990: The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu d",
-  "detail": "The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ram_Rath_Yatra",
-  "confidence": "unverified",
-  "added": "2026-09-25"
+  "tag": "Worth a read",
+  "hook": "Lula is re-elected Brazil’s president in knife-edge vote",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-26"
  },
  {
-  "id": "s-wiki-2026-09-25-1",
-  "group": "general",
+  "id": "s-ft-2026-10-26-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1983: In one of the largest prison escapes in British history, 38 Provisional Irish Republican A",
-  "detail": "In one of the largest prison escapes in British history, 38 Provisional Irish Republican Army prisoners hijacked a meals lorry and broke out of HM Prison Maze in County Antrim, Northern Ireland.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Maze_Prison_escape",
-  "confidence": "unverified",
-  "added": "2026-09-25"
+  "tag": "Worth a read",
+  "hook": "How Lula turned his election fortunes around in three weeks",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-26"
  },
  {
-  "id": "s-wiki-2026-09-25-2",
-  "group": "general",
+  "id": "s-ft-2026-10-26-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "1981: Sandra Day O'Connor (pictured) became the first female justice of the Supreme Court of the",
-  "detail": "Sandra Day O'Connor (pictured) became the first female justice of the Supreme Court of the United States.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_Day_O'Connor",
-  "confidence": "unverified",
-  "added": "2026-09-25"
+  "tag": "Worth a read",
+  "hook": "After stunning victory, Lula will face a deep hangover",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-26"
  },
  {
   "id": "s-wiki-2026-09-26-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Windows_XP",
   "confidence": "unverified",
   "added": "2026-10-25"
+ },
+ {
+  "id": "s-wiki-2026-10-26-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2004: Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video ga",
+  "detail": "Rockstar Games released Grand Theft Auto: San Andreas, considered one of the best video games ever made, in North America.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
+  "confidence": "unverified",
+  "added": "2026-10-26"
+ },
+ {
+  "id": "s-wiki-2026-10-26-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2001: President George W. Bush signed the Patriot Act into law, significantly expanding the auth",
+  "detail": "President George W. Bush signed the Patriot Act into law, significantly expanding the authority of United States law enforcement agencies.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/George_W._Bush",
+  "confidence": "unverified",
+  "added": "2026-10-26"
+ },
+ {
+  "id": "s-wiki-2026-10-26-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2000: Following protests against military leader Robert Guéï, Laurent Gbagbo (pictured) became t",
+  "detail": "Following protests against military leader Robert Guéï, Laurent Gbagbo (pictured) became the president of Ivory Coast.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Gu%C3%A9%C3%AF",
+  "confidence": "unverified",
+  "added": "2026-10-26"
  }
 ]
