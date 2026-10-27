@@ -528,42 +528,6 @@
   "added": "2026-09-14"
  },
  {
-  "id": "s-ft-2026-10-19-0",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Macron rejects interior minister’s resignation after French riots",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-19"
- },
- {
-  "id": "s-ft-2026-10-19-1",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Macron faces political firestorm after riots",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-19"
- },
- {
-  "id": "s-ft-2026-10-19-2",
-  "group": "macro",
-  "kind": "signal",
-  "tag": "Worth a read",
-  "hook": "Americans are unhappy. How will they vote in the midterms?",
-  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
-  "source": "FT",
-  "sourceUrl": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
-  "confidence": "verified",
-  "added": "2026-10-19"
- },
- {
   "id": "s-ft-2026-10-20-0",
   "group": "macro",
   "kind": "signal",
@@ -816,40 +780,40 @@
   "added": "2026-10-26"
  },
  {
-  "id": "s-wiki-2026-09-26-0",
-  "group": "general",
+  "id": "s-ft-2026-10-27-0",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2016: The Ecnomiohyla rabborum became extinct when the last known surviving member died in capti",
-  "detail": "The Ecnomiohyla rabborum became extinct when the last known surviving member died in captivity.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ecnomiohyla_rabborum",
-  "confidence": "unverified",
-  "added": "2026-09-26"
+  "tag": "Worth a read",
+  "hook": "Lula faces a fiscal reckoning after Brazil’s market rout",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-27"
  },
  {
-  "id": "s-wiki-2026-09-26-1",
-  "group": "general",
+  "id": "s-ft-2026-10-27-1",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2014: Forty-three students of the Ayotzinapa Rural Teachers' College in Iguala, Mexico, were kid",
-  "detail": "Forty-three students of the Ayotzinapa Rural Teachers' College in Iguala, Mexico, were kidnapped and probably later killed.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ayotzinapa_Rural_Normal_School",
-  "confidence": "unverified",
-  "added": "2026-09-26"
+  "tag": "Worth a read",
+  "hook": "Brazil’s currency plunges most since 1999 after Lula’s election victory",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-27"
  },
  {
-  "id": "s-wiki-2026-09-26-2",
-  "group": "general",
+  "id": "s-ft-2026-10-27-2",
+  "group": "macro",
   "kind": "signal",
-  "tag": "On this day",
-  "hook": "2010: Scottish aid worker Linda Norgrove and three Afghan colleagues were kidnapped by members o",
-  "detail": "Scottish aid worker Linda Norgrove and three Afghan colleagues were kidnapped by members of the Taliban in Kunar Province, Afghanistan.",
-  "source": "Wikipedia",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Death_of_Linda_Norgrove",
-  "confidence": "unverified",
-  "added": "2026-09-26"
+  "tag": "Worth a read",
+  "hook": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
+  "detail": "Open it in your own subscription — this card is a pointer, not a summary.",
+  "source": "FT",
+  "sourceUrl": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
+  "confidence": "verified",
+  "added": "2026-10-27"
  },
  {
   "id": "s-wiki-2026-09-27-0",
@@ -1930,5 +1894,41 @@
   "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Gu%C3%A9%C3%AF",
   "confidence": "unverified",
   "added": "2026-10-26"
+ },
+ {
+  "id": "s-wiki-2026-10-27-0",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2019: The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a",
+  "detail": "The Mocking of Christ (pictured) by Cimabue sold at auction in France for €19.5 million, a record for a pre-1500 artwork.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Mocking_of_Christ_(Cimabue)",
+  "confidence": "unverified",
+  "added": "2026-10-27"
+ },
+ {
+  "id": "s-wiki-2026-10-27-1",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2011: Michael D. Higgins (pictured) was elected President of Ireland with far more votes than an",
+  "detail": "Michael D. Higgins (pictured) was elected President of Ireland with far more votes than any politician in the country's history.",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Michael_D._Higgins",
+  "confidence": "unverified",
+  "added": "2026-10-27"
+ },
+ {
+  "id": "s-wiki-2026-10-27-2",
+  "group": "general",
+  "kind": "signal",
+  "tag": "On this day",
+  "hook": "2004: The Boston Red Sox completed a sweep of the St. Louis Cardinals to win the 2004 World Seri",
+  "detail": "The Boston Red Sox completed a sweep of the St. Louis Cardinals to win the 2004 World Series, breaking the so-called \"Curse of the Bambino\".",
+  "source": "Wikipedia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+  "confidence": "unverified",
+  "added": "2026-10-27"
  }
 ]
